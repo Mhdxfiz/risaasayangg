@@ -1,5 +1,5 @@
 # Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+-Flower code from: @mhdxfiz_1212
 
 
 # Description
@@ -11,4 +11,4 @@ Responsive Web -- bisa langsung disesuikan di file css --> style.css
 - Flower Code : Muhammad Al Hafiz (@mhdxfiz_1212)
 - Index Code : mhdxfiz_ (@mhdxfiz_1212)
 
-Thanks to codepan and mdusmanansari
+Thanks to VisualStudioCode
